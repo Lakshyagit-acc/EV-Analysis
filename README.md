@@ -2,6 +2,8 @@
 
 A Tableau project analyzing Electric Vehicle (EV) Population Data. This dashboard provides insights into EV adoption trends, vehicle types, range statistics, brand distribution, and eligibility for clean alternative fuel programs.
 
+LIVE PROJECT LINK - https://public.tableau.com/views/TableuEVanalysisbylakshya/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 📂 Dataset
 
 The dataset used contains details of electric vehicles, including:
