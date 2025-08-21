@@ -82,7 +82,7 @@ Hardware: 8GB RAM recommended for smooth dashboard interaction
 
 Clone this repository
 
-git clone https://github.com/your-username/ev-analysis-dashboard.git
+git clone https://github.com/Lakshyagit-acc/EV-Analysis.git
 
 
 Open the Tableau workbook (.twbx) or connect the dataset
